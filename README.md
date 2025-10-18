@@ -1,4 +1,4 @@
-# Pizza Sales Analysis Using MySQL
+# 📊 Pizza Sales Analysis Using MySQL
 
 ## 📘 Overview
 
